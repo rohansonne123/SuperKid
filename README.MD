@@ -13,7 +13,11 @@ This is a task management app built using the MERN stack.
    git clone https://github.com/rohansonne123/SuperKid.git
 
 ## Install dependencies
-cd client
-npm install
-cd ../server
-npm install
+- cd client
+- npm install
+- cd ../server
+- npm install
+
+# How to run
+- after cloning
+- cd client -> npm run dev
